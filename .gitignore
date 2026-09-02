@@ -1,2 +1,8 @@
+node_modules/
+package.json
+pnpm-lock.yaml
+src/
+/src/
+webpack.config.js
 *.swp
 *.tmp
